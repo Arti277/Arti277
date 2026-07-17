@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Arti Gidhad</h1>
 
 <h3 align="center">
-Computer Engineering Student | Data Analyst | AI & ML Learner | MERN Stack Developer
+Computer Engineering Student | Data Analyst | AI & ML Learner 
 </h3>
 
 <p align="center">
@@ -95,21 +95,9 @@ A modern shopping website with a responsive user interface.
 
 ---
 
-## 🏠 House Price Prediction
 
-Machine Learning project that predicts house prices using Linear Regression.
 
-**Tech Stack:** Python • Scikit-learn • Pandas
 
----
-
-## 📈 Retail Sales Analysis
-
-Analyzed retail sales data to understand sales trends and seasonal patterns.
-
-**Tech Stack:** Python • Pandas • Matplotlib
-
----
 
 # 📊 GitHub Statistics
 
