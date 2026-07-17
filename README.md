@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arti Gidhad</h1>
 
 <h3 align="center">
-Computer Engineering Student | AI & ML Enthusiast
+Computer Engineering Student | Data Analyst | AI & ML Learner
 </h3>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Java+Developer;React+Developer;Open+Source+Learner;Always+Learning+🚀">
 </p>
-<p align="center">
-<img src="arti.png" width="180"  style="border-radius:50%"/>
-</p>
+
 ---
 
 ## 👩‍💻 About Me
