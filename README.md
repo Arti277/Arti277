@@ -1,103 +1,174 @@
+<!-- ================= Banner ================= -->
+
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Arti Gidhad</h1>
 
 <h3 align="center">
-Computer Engineering Student | Data Analyst | AI & ML Learner
+Computer Engineering Student | Data Analyst | AI & ML Learner | MERN Stack Developer
 </h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Java+Developer;React+Developer;Open+Source+Learner;Always+Learning+🚀">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Data+Analysis+%7C+AI+%26+ML;MERN+Stack+Developer;Open+Source+Learner;Building+Real+World+Projects+🚀">
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 3rd Year Computer Engineering Student
+🎓 I'm a 3rd Year Computer Engineering student.
 
-📊 Skilled in Data Analysis
+📊 I enjoy analyzing data and discovering useful insights.
 
-🤖 Learning Artificial Intelligence & Machine Learning
+🤖 Currently learning Artificial Intelligence and Machine Learning.
 
-🌐 MERN Stack Developer (Learning)
+🌐 Building Full Stack applications using the MERN Stack.
 
-💻 Open Source Contributor
+💻 Passionate about solving real-world problems through technology.
 
-🚀 Passionate about solving real-world problems using AI & Web Technologies
+🚀 My goal is to become an AI Engineer.
 
-🌱 Currently improving my DSA and Full Stack Development skills
 ---
-## 🚀 Tech Stack
 
-<p align="left">
+# 🚀 Tech Stack
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,html,css,bootstrap,git,github,vscode"/>
 </p>
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Data Structures & Algorithms
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🌐 MERN Stack
+- 📈 Data Analysis
+- 📚 Data Structures & Algorithms
+- ❤️ Open Source Contribution
 
 ---
 
-## 📌 Featured Projects
+# 📂 Featured Projects
 
-### 🚚 Supply Chain Disruption Prediction
+## 🚚 Supply Chain Disruption Prediction
 
-AI-powered web application to predict shipment delays.
+A web application that predicts shipment delays using machine learning and logistics data.
 
-### 🏥 Hospital Queue Management
+**Tech Stack:** Python • Machine Learning • HTML • CSS
 
-Java Swing + MySQL Desktop Application.
-
-### 🛒 Responsive E-Commerce Website
-
-HTML, CSS & Bootstrap.
+---
 
 ## 📊 Customer Behavior Analysis
 
-**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn
+Analyzed customer data to understand shopping habits and customer preferences.
 
-- Cleaned and preprocessed customer data. Data cleaning and preprocessing.
-- Explored customer information to find useful patterns.
-- Created charts and graphs to understand customer behavior.
-- Found which types of customers purchase more often.
-- Found useful insights that can help businesses improve sales.
+✔ Cleaned and prepared the dataset
 
----
+✔ Explored customer purchasing patterns
 
-## 📊 GitHub Stats
+✔ Created charts and visualizations
 
-![](https://github-readme-stats.vercel.app/api?username=Arti277&show_icons=true&theme=tokyonight)
+✔ Identified customer groups
 
----
+✔ Shared insights to improve business decisions
 
-## 🔥 GitHub Streak
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arti277&theme=tokyonight)
+**Tech Stack:** Python • Pandas • NumPy • Matplotlib • Seaborn
 
 ---
 
-## 💻 Most Used Languages
+## 🏥 Hospital Queue Management System
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arti277&layout=compact&theme=tokyonight)
+A Java desktop application that manages patient registration, appointments, queue management, and reports.
+
+**Tech Stack:** Java • Swing • MySQL
 
 ---
 
-## 📈 Contribution Graph
+## 🛒 Responsive E-Commerce Website
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Arti277&theme=tokyo-night)
+A modern shopping website with a responsive user interface.
+
+**Tech Stack:** HTML • CSS • Bootstrap
+
+---
+
+## 🏠 House Price Prediction
+
+Machine Learning project that predicts house prices using Linear Regression.
+
+**Tech Stack:** Python • Scikit-learn • Pandas
+
+---
+
+## 📈 Retail Sales Analysis
+
+Analyzed retail sales data to understand sales trends and seasonal patterns.
+
+**Tech Stack:** Python • Pandas • Matplotlib
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arti277&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arti277&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arti277&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arti277&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Arti277&theme=algolia&margin-w=15"/>
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Arti277&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-📧 Email: artigidhad
+📧 Email: your-email@example.com
 
 💼 LinkedIn: https://linkedin.com/in/your-link
 
 🌐 Portfolio: Coming Soon
 
-⭐ Thanks for visiting my profile!
+---
+
+<p align="center">
+
+### 💙 Thanks for visiting my profile!
+
+*"Keep learning, keep building, and never stop improving."* 🚀
+
+</p>
