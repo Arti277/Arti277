@@ -5,9 +5,13 @@ Computer Engineering Student | AI & ML Enthusiast
 </h3>
 
 <p align="center">
-<img src="arti.png?font=Poppins&size=25&duration=3000&pause=1000&center=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Java+Developer;React+Developer;Open+Source+Learner;Always+Learning+🚀">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Java+Developer;React+Developer;Open+Source+Learner;Always+Learning+🚀">
 </p>
 
+<p align="center">
+<img src="arti.png" width="180"/>
+</p>
 ---
 
 ## 👩‍💻 About Me
@@ -92,5 +96,13 @@ HTML, CSS & Bootstrap.
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Arti277&theme=tokyo-night)
 
 ---
+
+# 🌐 Connect With Me
+
+📧 Email: artigidhad
+
+💼 LinkedIn: https://linkedin.com/in/your-link
+
+🌐 Portfolio: Coming Soon
 
 ⭐ Thanks for visiting my profile!
