@@ -6,15 +6,14 @@ Computer Engineering Student | AI & ML Enthusiast
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Java+Developer;React+Developer;Open+Source+Learner;Always+Learning+🚀">
 </p>
-
 <p align="center">
-<img src="arti.png" width="180"/>
+<img src="arti.png" width="180"  style="border-radius:50%"/>
 </p>
 ---
 
 ## 👩‍💻 About Me
 
-🎓 3nd Year Computer Engineering Student
+🎓 3rd Year Computer Engineering Student
 
 📊 Skilled in Data Analysis
 
