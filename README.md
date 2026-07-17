@@ -3,8 +3,6 @@
 <h3 align="center">
 Computer Engineering Student | AI & ML Enthusiast
 </h3>
-
-<p align="center">
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Java+Developer;React+Developer;Open+Source+Learner;Always+Learning+🚀">
 </p>
