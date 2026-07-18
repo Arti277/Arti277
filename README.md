@@ -28,7 +28,7 @@ Computer Engineering Student | Data Analyst | AI & ML Learner
 
 💻 Passionate about solving real-world problems through technology.
 
-🚀 My goal is to become an AI Engineer.
+
 
 ---
 
@@ -53,14 +53,8 @@ Computer Engineering Student | Data Analyst | AI & ML Learner
 
 # 📂 Featured Projects
 
-## 🚚 Supply Chain Disruption Prediction
-
-A web application that predicts shipment delays using machine learning and logistics data.
-
-**Tech Stack:** Python • Machine Learning • HTML • CSS
 
 ---
-
 ## 📊 Customer Behavior Analysis
 
 Analyzed customer data to understand shopping habits and customer preferences.
